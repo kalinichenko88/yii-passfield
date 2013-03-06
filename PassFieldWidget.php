@@ -1,6 +1,7 @@
 <?php
 /**
  * Pass*Field is a javascript that simplifies creation of sophisticated password fields.
+ * http://github.com/antelle/passfield
  * @author Ivan Kalinichenko <joker.bsg@gmail.com>
  * Date: 06.03.13
  * Time: 16:37
